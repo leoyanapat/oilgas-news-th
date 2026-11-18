@@ -1,16 +1,16 @@
 ข่าวน้ำมันและก๊าซไทย / Thailand Oil & Gas News
-อัปเดต: 18 พ.ย. 2026 01:35 น. ICT (เวลาไทย)
+อัปเดต: 18 พ.ย. 2026 07:15 น. ICT (เวลาไทย)
 
 ราคาน้ำมันดิบ
-  Brent: 93.45 USD (+1.09%)
-  WTI: 86.55 USD (+0.97%)
+  Brent: 93.31 USD (+0.18%)
+  WTI: 85.93 USD (-0.09%)
 
 ราคาขายปลีก บางจาก (บาท/ลิตร)
-  แก๊สโซฮอล์ 95 S EVO: 39.34
-  แก๊สโซฮอล์ 91 S EVO: 38.97
-  แก๊สโซฮอล์ E20 S EVO: 31.30
+  แก๊สโซฮอล์ 95 S EVO: 38.84
+  แก๊สโซฮอล์ 91 S EVO: 38.47
+  แก๊สโซฮอล์ E20 S EVO: 30.80
   แก๊สโซฮอล์ E85 S EVO: 30.63
-  ไฮดีเซล S: 40.79
+  ไฮดีเซล S: 39.99
   ดีเซล B20: 33.50
 
 สารบัญ / Contents
@@ -18,6 +18,9 @@
   - เปรียบเทียบบริษัท / Company Comparison (ท้ายไฟล์)
 
 === ราคา / Prices ===
+- การแย่งชิง LNG ของยุโรปส่งคลื่นกระแทกผ่านตลาดก๊าซในเอเชีย
+  (Europe’s LNG Scramble Sends Shockwaves Through Asian Gas Markets)
+  18 พ.ย. 2026 07:00 น. ICT | https://oilprice.com/Energy/Energy-General/Europes-LNG-Scramble-Sends-Shockwaves-Through-Asian-Gas-Markets.html
 - การตรวจสอบราคา LNG ในเอเชีย: ผลกระทบของอุปทานสหรัฐฯ ที่เพิ่มขึ้น - Hogan Lovells Cadwalader
   (LNG price reviews in Asia: Implications of increased US supply - Hogan Lovells Cadwalader)
   14 ต.ค. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMingFBVV95cUxQVDZqTzltRWNkTVZHUVMwWU55UVpzWjQ4SC02LThQdXZ3TGhCOEI2bEx6R3dOUjRFNkRKMV9zeG9WM0ViTi1kN2tlVldpNFVXYWhEaTZKaUFZbk9KcVBxSWt1WV82STJjeG4zekdvQ20xaU1wel82U1d4bGNTejFmUzd6cDBsNTJKVnhkTEpnU29yeHBKUld4WGlXVmdpZw?oc=5
@@ -39,9 +42,6 @@
 - ประเทศไทยคาดว่าจะซื้อโครงการส่งออก LNG ของสหรัฐฯ เพื่อรักษาอุปทาน - ราคาน้ำมันดิบวันนี้ | OilPrice.com
   (Thailand Looks to Buy Into U.S. LNG Export Projects to Secure Supply - Crude Oil Prices Today | OilPrice.com)
   30 มิ.ย. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTZSc0JKUEdVV0hTQms1ajlvSE42cEJfeHhwS1VnVERWTDlxUWxCQW14WlhZd2hmWEhWeTlOdXpDYXgxZnFiU01MaDNHdU96X1ItdlpqVXpzbFJUaTFlT1REd2R4WElNOS1GT3R0NHVoanhGZmRJano4eEpXN0dkTGxMRUFpazRrLWVkWTJ5TS1IOFc5MWdRNkxENHlYMW5RNlZYWGV0QWdjemE2NzAtMXVleEY5blZlVlJQNWoxSdIBxAFBVV95cUxOc1Jvazl5cG9Sc0JTcTYxMHFMblNBY1UtMm41YkR4YU1sMnNUS1NrdFRVT2VHcnVNQ09fRnFlVWVmRWl2MUwzTUd0Zk43RzIwV2dBbFljd1pWTmZSbzRlaGlYYy1qWDBCWTFSa2prV2lzdzVNREFGa19PRFB1TGw2N3lJZDJGSXJtSWI2ODhoeXd6UjdpSXRqU0o3SHpPczlkdUgyTHVuLWlkOXNGTWVEeEtGM1NqRlZHVC1NTXAyRVdqc1lS?oc=5
-- วิกฤตตะวันออกกลางเร่งการเจรจาอุปทาน LNG สหรัฐฯ-ไทย - ราคาน้ำมันดิบวันนี้ | OilPrice.com
-  (Middle East Crisis Accelerates U.S.-Thailand LNG Supply Talks - Crude Oil Prices Today | OilPrice.com)
-  27 พ.ค. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0l1M2xGcDZ2YW5yRDdSU0xjc0hFSVdFOFZSZUdyWmxhdmFNQ1FReVN0Rl9qRUJGTWROem5PZWxSWm5IeHVIMDZRY1FWM0ZXQzBfM2ZJbmVqbHFzbWFJZkhnM0dKbHBPdG9RQXlYVFlzMlduMEp6S1NtWGI5dmN4WWp1MS1JRzdTNEFEd2V3dVZkMm9kOWVid0ljbk54X0ZlZ0pwMXJkbTluY3PSAbABQVVfeXFMTzE5c1JQY1FTa1NTR2cyN21xUDhsQUU5TEVQZHJKdWZqdnBDb3psaUo4TDF6ZDg5MmZUQnJLNFhFYjR4UHRFN2JwRmg0N0tBaDJHTUU4QWlDa2NtcFRFN3N6VlJUQm5sUlp2SUpub0t4am8tMWpyeHg1RmE2Zy1hbURIbXQzdFZfX2pEaGNaZmJXS3MwUDd4SndlVTU1cUdaaDZIQXBZQWl0RkM4SExkMWs?oc=5
 
 === อุปทานและการผลิต / Supply & Production ===
 - ปิโตรนาส ปตท. ปิดท่อส่งก๊าซสงขลาชั่วคราว - NST Online
@@ -89,29 +89,31 @@
   13 ธ.ค. 2018 15:00 น. ICT | https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVBnQXREaGpJRDNldFVjWGIxdC1hN0dmdHpoQW04eUF6RUtfTHRPcFFFenhENVlpTHdpUFZUcDlUR0pKTEVUMUlaaHJsSGY2enliZWhHc25ELW00ZEFfTjhGb1NYc2pQVnhpcUdjMTVTb1NTV3RqQXFtT1hVSlhtU1VXVXJWT1lEUFhGY0J6YUZJWVZlV2g1cVpPbTFTNFpVaWFBYXlxeTJmZUNuNF9n?oc=5
 
 === อุตสาหกรรม / Industry ===
+- อนาคตคนเมืองเพชรฯ ใต้แผนขยาย 'โรงกลั่นน้ำมันสยามกัลฟ์ปิโตรเคมีคัล' - สำนักข่าวอิศรา
+  14 พ.ย. 2026 08:20 น. ICT | https://news.google.com/rss/articles/CBMickFVX3lxTE5MOVlKVTJ1QVNsanJGd053cmxNcnJHNEtkN1JYSmVmSFBoX0NxQnREdTZTRUNyVV9aNWpaSWR5bkxOS3pDekFEblpvQkd6RjlXSEdwb08xV2d4S0JscVdjNU1hRVVXdzdZaGhpd0lOWWxUdw?oc=5
 - Gulf Energy Development Public Company Limited (GULF.BK) ราคาหุ้น ข่าวสาร ราคา และประวัติ - Yahoo Finance UK
   (Gulf Energy Development Public Company Limited (GULF.BK) stock price, news, quote and history - Yahoo Finance UK)
   12 พ.ย. 2026 21:33 น. ICT | https://news.google.com/rss/articles/CBMiVkFVX3lxTE43bFRwQTFkdWpidmpkbEszaWFSUl9lMUIyOTNYOHhVTDUzSE9IUXdVRjNfT2hZRGk5VTVfa1FPQ3BOc2NkOUtNU09RQ0NReUNEOFBNazln?oc=5
 - บริษัท กัลฟ์ ดีเวลลอปเมนท์ จำกัด (มหาชน) นำไปถวายพระภิกษุ สามเณร ณ วัดสระเกศราชวรมหาวิหาร โดยมีนายสารัชถ์ รัตนาวะดี ประธานเจ้าหน้าที่บริหาร บริษัท กัลฟ์ ดีเวลลอปเมนท์ จำกัด (มหาชน) เป็นประธานในพิธีถวายผ้าพระกฐินพระราชทาน พร้อมด้วยคณะผู้บริหาร พนักงาน แขกผู้มีเกียร - spacebar.th
   9 พ.ย. 2026 17:46 น. ICT | https://news.google.com/rss/articles/CBMifkFVX3lxTE9yMEFoQ3Bua0xyOVNrRm95azNocTRHQVNFRFhoV0thSWpIbE1iOUtfVXJnSDF5OWJRSnAtRXFoRmd6MEN2UlYwZENKY2VRWVhKWDBNclhJeDNmRGo2SWM1Q0JIQ1hJZXNFNm9Md05KT3BwbGtwTV8xbDk4SnNZdw?oc=5
+- การพัฒนาอ่าวไทยของไทยเร่งเปลี่ยนมาใช้โครงสร้างพื้นฐานข้อมูลที่มีมูลค่าสูง เพื่อลดกระแสไหลออกทางดิจิทัล 1.5 หมื่นล้านดอลลาร์ - kaohoon international (GULF)
+  (Thailand’s Gulf Development Urges Shift to High-Value Data Infrastructure to Curb $15 Billion Digital Outflow - kaohoon international)
+  5 พ.ย. 2026 15:00 น. ICT | https://news.google.com/rss/articles/CBMiYEFVX3lxTE40OWFpeDVadWZBeWxrczRfcF8yQXZUX2l0S2NqX2FVQnpTeEg5T3NqbnNUY0pwd2N6TTlzdnVPZUxTX29rV2xnaVYwNDB6VFpYRDJwT1hNd1NGeklDRDBUNQ?oc=5
 - กัลฟ์ ดีเวลลอปเมนท์ ซื้อหุ้น 50% ในพอร์ตโฟลิโอพลังงานแสงอาทิตย์ของไทยขนาด 90 เมกะวัตต์ - Renewables Now (GULF)
   (Gulf Development buys 50% stake in 90-MW Thai solar portfolio - Renewables Now)
   2 พ.ย. 2026 19:02 น. ICT | https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWo3dXRFMmRyam85cXlud3NxRjRDZGRBY1U2dHY1NFh5MERBSjBzNEVIMHd3NlhxYjhRT2NMaHptX3M3ZmVwSkdIZlFVcFBWUUlhRzNzWmNJRUJUdmg2cUdKdGZvWXdwWEV0VmhWdzhOYk8zVzM4Z251bHJkZm9JMVZRZVBwSFFXdkVWcGtRaUxkZ3Y0RmV3dGpVbVdJVE1ZdkJjX2hlaEI5UXZK?oc=5
+- GULF คว้า Deal of the Year จาก SET Awards 2026 ชูความสำเร็จดีลควบรวม Gulf Energy–INTUCH - Head Topics
+  30 ต.ค. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMibEFVX3lxTE9TVFF5SUxIRVJZY1hjZTduZW1TbVl0ajVtLUFlTENCdDlPOEFKVzZVR0hWVVdtR3pfQ2pVZ25WUmo3clRQc0oxWlN4RFlJeWQweUUyT2Z2bDA2OGJtVEtjNVhMMGJicHcxaXVLcg?oc=5
 - ‘กัลฟ์’ ตั้ง ‘สมิทธ์ พนมยงค์’ นั่ง CFO แทน ‘ยุพาพิน วังวิวัฒน์’ ที่ลาออกและมีผลทันที - thestandard.co
   26 ต.ค. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JdDdRMHBUZUlia3UzZTUyOG5FZE9hLTJ1QkgzY2lXSlRuY09ybG16bGFyUUhFYmt5cXZfRFhDUWFVVUVVaTBTb2JRTjRxYmY4VlphUUY1R3lnaUJfcHA2SndYV3pmeGNt?oc=5
 - ประธานบริษัทเชฟรอน ประเทศไทย รับรางวัลนักธุรกิจที่เป็นแบบอย่างแห่งปี 2569 - Nation Thailand
   (Chevron Thailand president receives Exemplary Businesspersons of the Year 2026 - Nation Thailand)
   20 ต.ค. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CalVoa1NzLVV6NGQzZHMxRV9KZ1l3a0lGa2hzRC1tODd3aEdiR1hsd0xELWZfLVhGeEc1c3FBalR3OF9TaXhjdDJjRFI2dFdhejQzLU1HNHpYYWs2bUY3Z0VjTW1pQQ?oc=5
-- GULF ตั้ง “กัลฟ์ เอดจ์ ดาต้า เซนเตอร์” รับลงทุน Data Center - Thunhoon
-  14 ต.ค. 2026 10:00 น. ICT | https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YMXZFdVNnRU1McEdrdkI2ZFh3YjN3dHlmWlJnQk53UGNhbExGbGt0OW5KWDRGYWttdFVSRDRQdS1wN3BKc0lobHpYbEtEYnc4Z2ZLU25rNA?oc=5
-- การผลิตพลังงานแสงอาทิตย์แบบติดหลังคา／การพัฒนาพลังงานกัลฟ์ในประเทศไทย - MITSUI & CO., LTD. (GULF)
-  (Roof-mounted solar power generation／Gulf Energy Development in Thailand - MITSUI & CO., LTD.)
-  10 ต.ค. 2026 02:38 น. ICT | https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wcmh0eXp3Xzg2LTRQbmcwX254OHh1Q2cwZWZqU0NCWkdWNDE1eGRYdUhvVFNraDVBbEw1bERPN1k4Q0xiZG9GYzNLcW9JNmRTbUk4RjZSVERXRXFBSGRVUkkyalhKUQ?oc=5
-- ปตท.สผ. วาเลอรา กรีนไลท์ บุษบง พัฒนาก๊าซนอกประเทศไทย - นิตยสารวิศวกรนอกชายฝั่ง
-  (PTTEP, Valeura Greenlight Bussabong Gas Development off Thailand - Offshore Engineer Magazine)
-  22 ก.ย. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTBoQ0FsZVdadXA3RGN1XzdGT3IyWnZVVnRSR3Y0MWZaUTNkQnpPSGVaOFFzREdqMjByUktJR0FYSllUamFselFNbjVJSnFGZzZSSzk1ellCVXJlQzJQemVjZnRsS1NJSU4tMXZ3dVdpMlZRTm9xdWltYXFNcVgxQ0NhLXNQbk9jel9WVTE3ZFFGTGp5RHZnX3paVjFJYUF4UU9V?oc=5
 
 === LNG และสัญญานำเข้า / LNG & Imports ===
+- การแย่งชิง LNG ของยุโรปส่งคลื่นกระแทกผ่านตลาดก๊าซในเอเชีย
+  (Europe’s LNG Scramble Sends Shockwaves Through Asian Gas Markets)
+  18 พ.ย. 2026 07:00 น. ICT | https://oilprice.com/Energy/Energy-General/Europes-LNG-Scramble-Sends-Shockwaves-Through-Asian-Gas-Markets.html
 - GULF ขยายขอบเขตการซื้อขาย LNG นอกเหนือจากประเทศไทยด้วยข้อตกลงปิโตรไชน่า - พลังงานนอกชายฝั่ง
   (GULF broadens LNG trading horizons beyond Thailand with PetroChina deal - Offshore Energy)
   12 พ.ย. 2026 18:48 น. ICT | https://news.google.com/rss/articles/CBMitAFBVV95cUxQdE1lcWVnRkc2Q3RTdnZpbnBOb21DLVdtVlVMQlVicmFWNlRveVNvYUVOX0ktUVlYd2ZXTnB2WERqOE9ORHpmN1lfTHQzUTVxQi1pUE1fdnZER0x5RE1KRXRiQ21fc1NabVBMT2JPNVZhOHpBZVRsV1d6MTR4NGpNNTR4c21BRmdVUVhXQkFYTzZyc3ozUm9iT1F2UnRHQUd5R0lYZkZUMm5rQUp0czg5NW1wcXI?oc=5
@@ -132,9 +134,6 @@
 - Adnoc ลงนามข้อตกลง LNG ของไทยหลังสงครามอิหร่านขัดขวางอุปทานในอ่าวไทย - The National (GULF)
   (Adnoc signs Thai LNG deal after Iran war disrupts Gulf supply - The National)
   5 ต.ค. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMivgFBVV95cUxOR0tPNlc0aC04dk1aUk51c3l0VUZkXzk0U0NJLWN4ZFdyVG8tU200el9yaXFBemc3aGwzUnpteUsyVjZBZERaTWxRMU5oN3BBZGdwY3NlSkJfeURFTjgwRWtPeWhqWTZrbDQxOXAtZERMcmpHSm5xSVVuQjNwNnZ6Njd5WWxvd3dwUVJLQUV5bm1uZVE0czdJemZDS3N4RzZoQk9oSG5TNFU4ZVJZbHpQVWdYcWNMYmtSTy1obFhn?oc=5
-- LNG ขับเคลื่อนอนาคตพลังงานไทย - บางกอกโพสต์
-  (LNG anchors Thailand's energy future - Bangkok Post)
-  22 ก.ย. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMikgFBVV95cUxPejlVdnBHM2x2bFFxcFJGVWlMVnBVaC1kNzNWQllBUzlkQnk3ZGJHT2pwOVQ2R1JqelRENlM1ZzhoOVpVYmtBUjdWTXVjR0dfU2J1SzJNbF9xWlVSamNrMURKRlJfcFhxaEYwckczY3VZRVVRNXpsRXhwM0xCOGZKWUV1d09CY05SYkhqZGVnSTNfQQ?oc=5
 
 === Net Zero และนโยบายอนาคต ===
 - นวัตกรรม LNG ของ BIG เชื่อมโยงการเติบโตของอุตสาหกรรมด้วยเน็ตซีโร - เนชั่น ประเทศไทย
@@ -233,17 +232,15 @@
 - 'ปตท.' หน่วยงานพลังงานไทยตั้งเป้าขยายการค้า LNG เสริมความมั่นคงด้านพลังงานของประเทศ - kaohoon international
   (Thailand’s Energy Arm ‘PTT’ Targets LNG-Trading Expansion to Strengthen National Energy Security - kaohoon international)
   14 ก.ย. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaYmlqbkJsWEdGd01WLW1IdENrdlBKMUUxeVpXNGVwM3g1V2huRWJrV3NyT3FBQUJKRWxRcC1SamdNNGRxTk5PdlkzQUF1WlNFLWpRdzdJeW5PVVlvZk9GUQ?oc=5
-- ปตท. เพิ่มการลงทุน 1 ล้านล้านบาท คาดเป็นผู้นำ LNG ภายในปี 2578 - Nation Thailand
-  (PTT Doubles Down on Bt1trn Investment Drive, Eyes LNG Leadership by 2035 - Nation Thailand)
-  21 ส.ค. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNlYzcGNKaml2VGF6SDdJOHY0WURXMGZ0aVBBbjJIZGd1eDAyU2EzVmMweEs4d0RuX3YwR0dOdHJZS3Boc1RoWS1xRWZPZW1MNEJldU9jNFhQNkhncjRwdm1lQTBMb1pCbXc?oc=5
+- ปตท.ตั้งเป้าซื้อขาย LNG ทั่วโลก 15 ล้านตันต่อปีภายในปี 2578 - Nation Thailand
+  (PTT targets 15m tonnes a year in global LNG trading by 2035 - Nation Thailand)
+  13 ก.ย. 2026 14:00 น. ICT | https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QOVNXdjBuS2xhMGdnWkh5ajlSckpXanBkV1pmV3VlNzF4bjRQczhndkFoMnpqQ3lkWmQ4NkVZeGRaZGE5bUptc3cwaWt2ZTlQS01wdnBEbUhRX2xLYzF4UWE5T1lfcW8?oc=5
 
 === บริษัท: Gulf Development (GULF) ===
-- GULF เผยแผนธุรกิจปี 2570 คาดได้รับรู้รายได้โครงการพลังงานหมุนเวียน 644 MW และลงทุน 5 ปี 9-1.2 แสนล้านบาท - Head Topics
-  16 พ.ย. 2026 19:52 น. ICT | https://news.google.com/rss/articles/CBMibEFVX3lxTE5Id0xOU1l5RmFNNHR3QTRsT0tKek9STm1JSmZpb1BHLUFVS19IYmx1Z3JuNl9YM0w4aUp1YXdDbG1wdHJGZjJjdVA2ZTBWbjFIbzQ0NDRVcjlsLUZPZkR5d1c2eWt4Z3RwbTF2WQ?oc=5
-- GULF กางแผน 5 ปีจัดงบ 9 หมื่น-1.2 แสนล้านกระจายลงทุนสมดุล แย้มปี 70 จ่อ COD โรงไฟฟ้าสะอาด 644 MW เปิด Data Center Q2/70 : อินโฟเควสท์ - สำนักข่าวอินโฟเควสท์
-  16 พ.ย. 2026 17:46 น. ICT | https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fWFBoWjdtd01MNEh3cGl0cm92OTVuakZ6RWRuMUpidF9aRV8ySWdiek9FNEZNYXdsRldWTDl6aUtxbVpYa1FwX0FwendjVWRP?oc=5
 - หุ้นโรงไฟฟ้ารับอานิสงส์นโยบายศูนย์ข้อมูล ชู GULF-GUNKUL - The Bangkok Insight
   14 พ.ย. 2026 11:59 น. ICT | https://news.google.com/rss/articles/CBMidkFVX3lxTE55M05RNG1nMGlacFRWa1NMeWh5aGZ5SDJpYjNobGJPejdETU9pMmM0VVBPSkN2Wml6Q21taWswWFB5a1F6TVhaRWMxZlg5VmRRNnBHQVJXdklGbnZ3QkNDMWpmaVFWZExQZVdlQjlhTTRYM1hBX3c?oc=5
+- อนาคตคนเมืองเพชรฯ ใต้แผนขยาย 'โรงกลั่นน้ำมันสยามกัลฟ์ปิโตรเคมีคัล' - สำนักข่าวอิศรา
+  14 พ.ย. 2026 08:20 น. ICT | https://news.google.com/rss/articles/CBMickFVX3lxTE5MOVlKVTJ1QVNsanJGd053cmxNcnJHNEtkN1JYSmVmSFBoX0NxQnREdTZTRUNyVV9aNWpaSWR5bkxOS3pDekFEblpvQkd6RjlXSEdwb08xV2d4S0JscVdjNU1hRVVXdzdZaGhpd0lOWWxUdw?oc=5
 - ราช กรุ๊ป กำไรไตรมาส 3/69 เพิ่มขึ้น 2.2 พันล้านบาท โรงไฟฟ้าหินกองหนุนการเติบโตระดับแนวหน้า - kaohoon international
   (RATCH’s 3Q26 Profit Edges Up to THB2.2 Billion as Hin Kong Power Plant Boosts Top-Line Growth - kaohoon international)
   13 พ.ย. 2026 17:25 น. ICT | https://news.google.com/rss/articles/CBMiYEFVX3lxTE00RUlhTkZhRDNBOUVxOWJXNEM5UjRzSTNfZ3dzSFVCNWRxOXBKMTE3dUdkYkdXVVlzOTc0OGEzTGp6cFVtc05iN0VPenJ2ZlJjSHN6YWhuTDNTZGtIMTE0bA?oc=5
@@ -255,8 +252,11 @@
   12 พ.ย. 2026 18:48 น. ICT | https://news.google.com/rss/articles/CBMitAFBVV95cUxQdE1lcWVnRkc2Q3RTdnZpbnBOb21DLVdtVlVMQlVicmFWNlRveVNvYUVOX0ktUVlYd2ZXTnB2WERqOE9ORHpmN1lfTHQzUTVxQi1pUE1fdnZER0x5RE1KRXRiQ21fc1NabVBMT2JPNVZhOHpBZVRsV1d6MTR4NGpNNTR4c21BRmdVUVhXQkFYTzZyc3ozUm9iT1F2UnRHQUd5R0lYZkZUMm5rQUp0czg5NW1wcXI?oc=5
 - GULF จับมือ PetroChina International (Singapore) ขยายธุรกิจค้า LNGสากล ส่งมอบ LNG 0.3 ล้านตันในปี 2570 - มติชนออนไลน์
   11 พ.ย. 2026 14:07 น. ICT | https://news.google.com/rss/articles/CBMiW0FVX3lxTE83M1hnNzMwcG44a0kyeVFJTmU0SG1lUG05ak5pNlAzaXA4WXJPTUlYU29nbmtmaWRBRFRZZzJhSDVzdXJGNEZCdXNFV19vWmRKeTlBTkx1U0VWZjQ?oc=5
-- เปิด 5 หุ้นต่างชาติไล่ซื้อผ่าน NVDR พบ GULF เฉียดพันล้านบาท - ข่าวหุ้นธุรกิจออนไลน์
-  11 พ.ย. 2026 09:30 น. ICT | https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWcFoySDdQWHhGTE9oTElDYW5CTHFjX211UmpIQmFDVlN1dHY0R1dHMktrUXQxcDg1VVlqYzl6RGEwdmEtYmh1LW1fTQ?oc=5
+- บริษัท กัลฟ์ ดีเวลลอปเมนท์ จำกัด (มหาชน) นำไปถวายพระภิกษุ สามเณร ณ วัดสระเกศราชวรมหาวิหาร โดยมีนายสารัชถ์ รัตนาวะดี ประธานเจ้าหน้าที่บริหาร บริษัท กัลฟ์ ดีเวลลอปเมนท์ จำกัด (มหาชน) เป็นประธานในพิธีถวายผ้าพระกฐินพระราชทาน พร้อมด้วยคณะผู้บริหาร พนักงาน แขกผู้มีเกียร - spacebar.th
+  9 พ.ย. 2026 17:46 น. ICT | https://news.google.com/rss/articles/CBMifkFVX3lxTE9yMEFoQ3Bua0xyOVNrRm95azNocTRHQVNFRFhoV0thSWpIbE1iOUtfVXJnSDF5OWJRSnAtRXFoRmd6MEN2UlYwZENKY2VRWVhKWDBNclhJeDNmRGo2SWM1Q0JIQ1hJZXNFNm9Md05KT3BwbGtwTV8xbDk4SnNZdw?oc=5
+- การพัฒนาอ่าวไทยของไทยเร่งเปลี่ยนมาใช้โครงสร้างพื้นฐานข้อมูลที่มีมูลค่าสูง เพื่อลดกระแสไหลออกทางดิจิทัล 1.5 หมื่นล้านดอลลาร์ - kaohoon international (GULF)
+  (Thailand’s Gulf Development Urges Shift to High-Value Data Infrastructure to Curb $15 Billion Digital Outflow - kaohoon international)
+  5 พ.ย. 2026 15:00 น. ICT | https://news.google.com/rss/articles/CBMiYEFVX3lxTE40OWFpeDVadWZBeWxrczRfcF8yQXZUX2l0S2NqX2FVQnpTeEg5T3NqbnNUY0pwd2N6TTlzdnVPZUxTX29rV2xnaVYwNDB6VFpYRDJwT1hNd1NGeklDRDBUNQ?oc=5
 
 === บริษัท: Chevron ===
 - Chevron รับรางวัลองค์กรรับผิดชอบต่อสังคมดีเด่น ต่อเนื่องเป็นปีที่ 17 จากหอการค้าอเมริกันในประเทศไทย - มิติหุ้น | ชี้ชัดทุกการลงทุน - มิติหุ้น
